@@ -4,7 +4,7 @@
     "short_name": "SAS PES",
     "version": "SET_DURING_BUILD",
     "author": "Gary Kim & The SAS PES Authors",
-    "homepage_url":"https://github.com/gary-kim/saspes/",
+    "homepage_url":"https://github.com/sas-fossdev/saspes/",
     "description": "Provides various enhancements for SAS Powerschool",
     "permissions": [
         "storage",
